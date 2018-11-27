@@ -1,10 +1,10 @@
 # Project_2018
 ## Energy System : Alternative energy sources
-- This project is documentation project about Energy system
-- Our project team member is Byounghyun and Riley
+- This project is a documentation project about Energy systems
+- Our project team members are Byounghyun and Riley
 - Research area
   - Byounghyun Oh - Solar power
-  - Riley - Hydroelectric, and/ or small wind farm
+  - Riley Miller - Wind farms 
 
 ## Solar power
 ### Introduction
@@ -33,3 +33,24 @@ Alternative energy is not the option anymore, we should more applied in our life
 - [11 Different Sources of Alternative Energy, (2016)](https://www.renewableresourcescoalition.org/alternative-energy-sources/)
 - [How solar panel cost and efficiency have changed over time, (n.d)](https://news.energysage.com/solar-panel-efficiency-cost-over-time/)
 - [Solarpanelpower, Canadian Solar Power Resource Maps (2018)](https://solarpanelpower.ca/solar-power-maps-canada/)
+
+## Wind farms
+### Introduction
+A wind farm or wind park is a collection of wind turbines used to produce electricity.
+
+### History of Wind farms
+The history of...
+
+Windfarm Landscape
+![Table01](images/wf_landscape1.jpg?raw=true "Windfarm Landscape")
+
+### Applied in Canadian residential market
+The application of...
+
+
+### Conclusion
+The solar energy may not the best solution for alternative energy, yet easiest way of using the alternative energy and the technology gets better over time. The fossil fuel is not infinite, but The Sun is almost infinite and it does not cause the global warming as much as fossil fuel. 
+Alternative energy is not the option anymore, we should more applied in our life for long term future.
+
+### References
+- [Wind farm, Wikipedia](https://en.wikipedia.org/wiki/Wind_farm)
