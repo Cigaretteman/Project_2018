@@ -11,7 +11,7 @@
 The solar power is the one of the most popular alternative energy system among the alternative energy sources, especially in the residential market.
 
 ### History of Solar power
-The solar technologies starting in 1860s, and only 1% efficient cells. When global warming concerns became big issue in the mid 1990s, the solar power became so popular. Also, the solar panel efficiency gets increasing. EnergySage(n.d.) mention that 2017, prototype for solar cell capable of 44.5% efficiency now. In other words, the solar panel cost over time is decreased. In 2008, the cost of solar panel installation was $8.82 per watt, but as see the table, now $3.14 per watt.
+The solar technologies starting in 1860s, and only the 1% efficient cells. When global warming concerns became big issue in the mid 1990s, the solar power became so popular. Also, the solar panel efficiency gets increasing. EnergySage(n.d.) mention that 2017, prototype for solar cell capable of 44.5% efficiency now. In other words, the solar panel cost over time is decreased. In 2008, the cost of solar panel installation was $8.82 per watt, but as see the table, now $3.14 per watt.
 
 Table1
 ![Table01](images/table01.png?raw=true "Table 1")
