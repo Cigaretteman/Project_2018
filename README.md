@@ -1,3 +1,3 @@
 # Project_2018
 
-Documentation for the Aquaponics and Hydroponics division of the DKAL facility.
+Documentation of the Aquaponics and Hydroponics research for the DKAL facility.
