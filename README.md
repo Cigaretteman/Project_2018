@@ -1,2 +1,3 @@
 # Project_2018
-Implementation of my Master Plan
+
+Documentation of the Aquaponics and Hydroponics research for the DKAL facility.
