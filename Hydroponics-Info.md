@@ -46,8 +46,9 @@ What you end up with is essentially funky pink light. Which from expereince, is 
 
 ![enter image description here](https://raw.githubusercontent.com/ConfederationC/Project_2018/Aqua-hydroponicsDocs/Images/20140610_210530.jpg)
 
-![enter image description here](https://cdn2.collective-evolution.com/assets/uploads/2015/01/tumblr_inline_n8ga07E0Jy1qzgziy.jpg)
+![Japan hydroponics facility](https://cdn2.collective-evolution.com/assets/uploads/2015/01/tumblr_inline_n8ga07E0Jy1qzgziy.jpg)
 
+![Blair developing his own red/blue grow lights.](https://raw.githubusercontent.com/ConfederationC/Project_2018/Aqua-hydroponicsDocs/Images/20140529_144000.jpg)
 
 **Reference:**
 
