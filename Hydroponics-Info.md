@@ -7,6 +7,7 @@
   
 
 **1. What is Hyrdroponics?**
+
 Hydroponics has been around for decades. It was originally developed by Nasa around the 50's / 60's as a way to feed astronauts on deep space missions and moon missions. Since then, it has been picked up by those wanting to optimize growing techniques. Not the hippies though, they think soil is pure and all that nonsense. Over the past fifteen years, has greatly picked up commercial uses. As a personal endevour - it's still highly associated with weed. Going to the hydroponics section of the garden center, is typically separate from the rest of the building, with heavy doors and bars. There is a large underground culture surrounding it. Which is unfortunate. 
 
 There are several variations on the theme of Hyrdoponics, however the overall concept involves a soilless growing method that presents to the plant, all nutrient required for growth. 
@@ -39,6 +40,7 @@ weed
 research
 
 **4. Lighting technology advancements**
+
 Tradiononal grow lights were power hungry beasts that required independent main circuits and exhaust/cooling systems. Typically High-Pressure Sodium or Halogen lights. Today however, continued research has shown most plants only require two spectrums of visible light - red and blue. 
 
 What you end up with is essentially funky pink light. Which from expereince, is super trippy to work around. So typically white lights are added when working in the area. 
