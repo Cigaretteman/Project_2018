@@ -2,7 +2,7 @@
 
 ## Defining Aquaponics
 
-## Building on Hydroponics
+## Supplementing Hydroponics
 
 ## Benefits
 
