@@ -8,7 +8,7 @@ This section documents information regarding Aquaponics and the benefits it prov
 
 ## Supplementing Hydroponics
 
-![Aquaponics](./Images/Aquaponics.png)
+![Aquaponics](./Images/Aquaponics.png?s=100)
 
 ## Benefits
 
