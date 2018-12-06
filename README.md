@@ -8,9 +8,21 @@ This section documents information regarding Aquaponics and the benefits it prov
 
 ## Supplementing Hydroponics
 
-![Aquaponics](./Images/Aquaponics.png)
+<img src="./Images/Aquaponics.png" align="left"/> Aquaponics is a closed loop system which allows growing fish and plants together with complete self-sufficiency.
+
+### Process
+
+Water from a fish tank is pumped into a flood tank, where the ammonia rich waste produced by the fish is properly mixed. This fertiliser serves as a source of nutrients for the plants stacked over the fish tank.
+
+<br clear="both">
 
 ## Benefits
+
+The following are the key benefits of using an Aquaponics system:
+
+1. No fertilisers are required.
+2. The water is recycled continuously rather than being lost to the soil.
+3. No pesticides or herbicides are required.
 
 ## Challenges
 
