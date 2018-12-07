@@ -27,6 +27,7 @@ The following are some of the key benefits of using an Aquaponics system:
 1. No fertilisers are required.
 2. The water is recycled continuously rather than being lost to the soil.
 3. No pesticides or herbicides are required.
+4. Can be constructed anywhere (e.g. Warehouses, rooftops, basements).
 
 ## Challenges
 
