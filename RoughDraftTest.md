@@ -17,7 +17,7 @@ at
 <http://thunderbay.maps.arcgis.com/apps/webappviewer/index.html?id=fe1c1cbffb7d43f482d006579a53c6a4>.
 Shown in the image below is all the districts in the Thunder Bay region.
 
-![](media/a6e4d05b1749ce3373814bce39383ea1.png)
+<p><a href="https://commons.wikimedia.org/wiki/File:ThunderBayWardMap.svg#/media/File:ThunderBayWardMap.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ThunderBayWardMap.svg/1200px-ThunderBayWardMap.svg.png" alt="ThunderBayWardMap.svg"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Vidioman" title="User:Vidioman">Vidioman</a> - Trace of a satellite image from Google maps; City of Thunder Bay Ward Map, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=2913280">Link</a></p>
 
 
 # **Planning**
