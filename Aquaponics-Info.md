@@ -16,9 +16,7 @@ Water from a fish tank is pumped into a flood tank, where the ammonia rich waste
 
 The grow beds where the plants are raised have a thin layer of soil to support the root system. Once the nutrients are consumed from the water, this water is drip-feeded into the fish tank to maintain its water levels.
 
-This recycling process makes aquaponics an improvement over hydroponics, adding to its self-sufficiency and removing the need for additional resources to aid the growth of plants.
-
-<br clear="both">
+This recycling process makes aquaponics an improvement over hydroponics, adding to its self-sufficiency and removing the need for additional resources to aid the growth of plants.<span clear="both" />
 
 ## Benefits
 
