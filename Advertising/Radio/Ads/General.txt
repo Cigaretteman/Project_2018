@@ -3,4 +3,6 @@ an advanced fitness center, a gourmet cafeteria, and a sprawling waterpark resor
 all our facility has to offer with a special admission price of only $19.99. Limited time only. Terms and 
 conditions apply."
 
-Script #2: ""
+Script #2: "DKAL is a facility that is truly unique in its variety of offerings. Boasting an 
+enormous waterpark, fitness center, hydroponic habitat, aquaponic habitat, and cafeteria, DKAL 
+provides a rich, educational, relaxing experience in one visit."
