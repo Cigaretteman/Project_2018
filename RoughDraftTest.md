@@ -1,4 +1,4 @@
-*Location, Planning and Zoning By-Laws*
+# **Location, Planning and Zoning By-Laws**
 
 For the construction of DKAL to move ahead a suitable location will be needed to
 accommodate the Hydroponic/Aquaponic and Energy System divisions of the
@@ -9,7 +9,7 @@ away from the farms. Thunder Bay has official Zoning By-Laws which Dkal will
 have to abide by, which will be discussed in details later on in this document.
 Building permits will also be needed before construction begins.
 
-*Location*
+# **Location**
 
 Choosing the right location will need to be discussed prior to applying for any
 official documents. The city offers an interactive zoning map which can be found
@@ -19,7 +19,8 @@ Shown in the image below is all the districts in the Thunder Bay region.
 
 ![](media/a6e4d05b1749ce3373814bce39383ea1.png)
 
-*Planning*
+
+# **Planning**
 
 According to official documents from the City of Thunder Bay the Planning
 Services Division develops and maintain the Official Plan and Zoning By-Laws.
@@ -34,7 +35,8 @@ Before purchasing a property or applying for a building permit, Planning
 Services can help you determine if your proposal complies with zoning
 regulations and if a planning application is necessary.
 
-*By-Laws*
+
+# **By-Laws**
 
 For Dkal to deal with all the By-Laws, consulting with Planning Service Staff
 will be required. According to the City of Thunder Bay the Zoning By-law sets
@@ -50,12 +52,14 @@ the "R2" - Residential Zone Two you may build a duplex, but you may not build an
 office. There are other rules regarding lot size, setbacks, and parking which
 must also be followed.
 
-*References*
+
+
+# **References**
 
 <https://www.thunderbay.ca/en/business/planning-applications.aspx>
 
 <https://www.thunderbay.ca/en/business/zoning.aspx?_mid_=1006>
 
->   <http://thunderbay.maps.arcgis.com/apps/webappviewer/index.html?id=fe1c1cbffb7d43f482d006579a53c6a4>
+<http://thunderbay.maps.arcgis.com/apps/webappviewer/index.html?id=fe1c1cbffb7d43f482d006579a53c6a4>
 
->   <https://en.wikipedia.org/wiki/Thunder_Bay_District>
+<https://en.wikipedia.org/wiki/Thunder_Bay_District>
