@@ -8,7 +8,7 @@ This section documents information regarding Aquaponics and the benefits it prov
 
 ## Supplementing Hydroponics
 
-<img src="./Images/aquaponics.png" align="right"/> Aquaponics is a closed loop system which allows growing fish and plants together with high self-sufficiency.
+<img src="./Images/Aquaponics.png" align="right"/> Aquaponics is a closed loop system which allows growing fish and plants together with high self-sufficiency.
 
 ### Process
 
