@@ -9,6 +9,7 @@
 ### Procedures, Processes, Menus, Layout
 We began our project by researching 11 
 
+<center>
 ### Decisions and Justifications
 #### Options considered
 |Option|Description|Decision|Reason for not adopting|
@@ -24,7 +25,7 @@ We began our project by researching 11
 |Wave Energy|:x:|||
 |Hydroelectric Energy|:x:|||
 |Nuclear Power|:x:|||
-
+</center>
 
 ## Solar power
 ### Introduction
