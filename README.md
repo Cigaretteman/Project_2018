@@ -1,10 +1,30 @@
-# Project_2018
+# Project 2018, CP 370
 ## Energy System : Alternative energy sources
 - This project is a documentation project about Energy systems
-- Our project team members are Byounghyun and Riley
+- Our project team members are [Byounghyun](https://github.com/ByounghyunOh) and [Riley](https://github.com/R-Y-M-R)
 - Research area
   - Byounghyun Oh - Solar power
-  - Riley Miller - Wind farms 
+  - Riley Miller - Wind farms
+  
+### Procedures, Processes, Menus, Layout
+We began our project by researching 11 
+
+### Decisions and Justifications
+#### Options considered
+|Option|Description|Decision|Reason for not adopting|
+|---|---|---|---|
+|Solar| :heavy_check_mark: |||
+|Wind Mill|:heavy_check_mark:|||
+|Hydrogen Gas|Description|Decision|Reason|
+|Tidal Energy|:x:|||
+|Biomass Energy| :x: |||
+|Geothermal Power|:x:|||
+|Natural Gas|:x:|||
+|Biofuels|:x:|||
+|Wave Energy|:x:|||
+|Hydroelectric Energy|:x:|||
+|Nuclear Power|:x:|||
+
 
 ## Solar power
 ### Introduction
