@@ -7,23 +7,25 @@
   - Riley Miller - Wind farms
   
 ### Procedures, Processes, Menus, Layout
-We began our project by researching 11 
+Our initial process was to narrow down the scope of our project to one or two different sources of energy. 
+We started by researching 11 different forms of energy, and then made decisions about which forms would be most appropriate for the scope of our project.
+
 
 ### Decisions and Justifications
 #### Options considered
-|Option|Description|Decision|Reason for not adopting|
+|Energy Option|Decision|Description|Reason for not adopting|
 |---|---|---|---|
-|Solar| :heavy_check_mark: |||
-|Wind Mill|:heavy_check_mark:|||
-|Hydrogen Gas|Description|Decision|Reason|
-|Tidal Energy|:x:|||
-|Biomass Energy| :x: |||
-|Geothermal Power|:x:|||
-|Natural Gas|:x:|||
-|Biofuels|:x:|||
-|Wave Energy|:x:|||
-|Hydroelectric Energy|:x:|||
-|Nuclear Power|:x:|||
+|Solar Energy|:heavy_check_mark:|Desc|Rea|
+|Wind Mill|:heavy_check_mark:|Desc|Rea|
+|Hydrogen Gas|:x:|Desc|Rea|
+|Tidal Energy|:x:|Desc|Rea|
+|Biomass Energy|:x:|Desc|Rea|
+|Geothermal Power|:x:|Desc|Rea|
+|Natural Gas|:x:|Desc|Rea|
+|Biofuels|:x:|Desc|Rea|
+|Wave Energy|:x:|Desc|Rea|
+|Hydroelectric Energy|:x:|Desc|Rea|
+|Nuclear Power|:x:|Desc|Rea|
 
 ## Solar power
 ### Introduction
