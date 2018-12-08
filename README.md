@@ -7,25 +7,29 @@
   - Riley Miller - Wind farms
   
 ### Procedures, Processes, Menus, Layout
-Our initial process was to narrow down the scope of our project to one or two different sources of energy. 
-We started by researching 11 different forms of energy, and then made decisions about which forms would be most appropriate for the scope of our project.
+Our initial process was to [narrow down the scope of our project to one or two different sources of energy](https://github.com/ConfederationC/Project_2018/issues/33). 
+We started by researching 11 different forms of energy from [RenewableResourceCollation.org](http://renewableresourcescoalition.org/), and then made decisions about which forms would be most appropriate for the scope of the project.
 
 
 ### Decisions and Justifications
 #### Options considered
-|Energy Option|Decision|Description|Reason for not adopting|
-|---|---|---|---|
-|Solar Energy|:heavy_check_mark:|Desc|Rea|
-|Wind Mill|:heavy_check_mark:|Desc|Rea|
-|Hydrogen Gas|:x:|Desc|Rea|
-|Tidal Energy|:x:|Desc|Rea|
-|Biomass Energy|:x:|Desc|Rea|
-|Geothermal Power|:x:|Desc|Rea|
-|Natural Gas|:x:|Desc|Rea|
-|Biofuels|:x:|Desc|Rea|
-|Wave Energy|:x:|Desc|Rea|
-|Hydroelectric Energy|:x:|Desc|Rea|
-|Nuclear Power|:x:|Desc|Rea|
+|Energy Option|Short Description|Decision|
+|---|---|---|
+|Solar Energy|Light and heat from the sun is absorbed as energy, harnessed and stored.|:heavy_check_mark:|
+|Wind Power|Harnessrd airflow as mechanical power to turn electric generators.|:heavy_check_mark:|
+|Hydrogen Fuel|A clean burning fuel derived from natural gas,  fossil fuel. Hydogen is high in energy. A engine which burns pure hydrogen produces _almost no_ pollution. *Used by NASA in rockets since the 1970s.|:x:|
+|Tidal Energy|Tidal energy is yielded from water, similar concept to wind turbines.|:x:|
+|Biomass Energy|Organic matrerial from plants and animals is burned, releasing power. |:x:|
+|Geothermal Power|Vent down into steam/hot water reservoirs underground, harness it to drive an electrical generator. [[1]](http://www.alliantenergykids.com/EnergyandTheEnvironment/RenewableEnergy/022401) Is a sustainable, renewable source of heat and energy.|:x:|
+|Natural Gas|Desc|:x:|
+|Biofuels|Desc|:x:|
+|Wave Energy|Desc|:x:|
+|Hydroelectric Energy|Desc|:x:|
+|Nuclear Power|Desc|:x:|
+
+#### Reasoning
+The reason for choosing **solar energy** is
+The reason for choosing **wind power** is that turbines are a *clean and renewable* source of energy, are relatively cheap compared to other alternative forms of energy, and could *plausibly* be implemented in Thunder Bay. In 2007, Horizon Wind Inc had planned to spend $75 million bringing 30 wind turbines to Thunder Bay, but ultimately was not implemented and scrapped the project in 2014. [[1]](http://www.thunderbaybusiness.ca/article/wind-power-for-thunder-bay-286.asp) [[2]](http://www.windaction.org/posts/43689-horizon-wind-thunder-bay-denial)
 
 ## Solar power
 ### Introduction
@@ -50,11 +54,6 @@ In addition, for the residential use, roof mount is the easiest way. You may abl
 The solar energy may not the best solution for alternative energy, yet easiest way of using the alternative energy and the technology gets better over time. The fossil fuel is not infinite, but The Sun is almost infinite and it does not cause the global warming as much as fossil fuel. 
 Alternative energy is not the option anymore, we should more applied in our life for long term future.
 
-### References
-- [11 Different Sources of Alternative Energy, (2016)](https://www.renewableresourcescoalition.org/alternative-energy-sources/)
-- [How solar panel cost and efficiency have changed over time, (n.d)](https://news.energysage.com/solar-panel-efficiency-cost-over-time/)
-- [Solarpanelpower, Canadian Solar Power Resource Maps (2018)](https://solarpanelpower.ca/solar-power-maps-canada/)
-
 ## Wind farms
 ### Introduction
 A wind farm or wind park is a collection of wind turbines used to produce electricity.
@@ -63,7 +62,7 @@ A wind farm or wind park is a collection of wind turbines used to produce electr
 The history of...
 
 Windfarm Landscape
-![Table01](images/wf_landscape1.jpg?raw=true "Windfarm Landscape")
+![Table03](images/wf_landscape1.jpg?raw=true "Windfarm Landscape")
 
 ### Applied in Canadian residential market
 The application of...
@@ -74,4 +73,8 @@ The solar energy may not the best solution for alternative energy, yet easiest w
 Alternative energy is not the option anymore, we should more applied in our life for long term future.
 
 ### References
+- [11 Different Sources of Alternative Energy, (2016)](https://www.renewableresourcescoalition.org/alternative-energy-sources/)
+- [How solar panel cost and efficiency have changed over time, (n.d)](https://news.energysage.com/solar-panel-efficiency-cost-over-time/)
+- [Solarpanelpower, Canadian Solar Power Resource Maps (2018)](https://solarpanelpower.ca/solar-power-maps-canada/)
 - [Wind farm, Wikipedia](https://en.wikipedia.org/wiki/Wind_farm)
+- [Biomass, EIA.GOV](https://www.eia.gov/energyexplained/?page=biomass_home)
