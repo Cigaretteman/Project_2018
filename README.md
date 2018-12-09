@@ -19,7 +19,7 @@ We started by researching 11 different forms of energy from [RenewableResourceCo
 |Wind Power|Harnessrd airflow as mechanical power to turn electric generators.|:heavy_check_mark:|
 |Hydrogen Fuel|A clean burning fuel derived from natural gas,  fossil fuel. Hydogen is high in energy. A engine which burns pure hydrogen produces _almost no_ pollution. *Used by NASA in rockets since the 1970s.|:x:|
 |Tidal Energy|Tidal energy is yielded from water, similar concept to wind turbines.|:x:|
-|Biomass Energy|Organic matrerial from plants and animals is burned, releasing power. |:x:|
+|Biomass Energy|Organic material from plants and animals is burned, releasing power. |:x:|
 |Geothermal Power|Vent down into steam/hot water reservoirs underground, harness it to drive an electrical generator. [[1]](http://www.alliantenergykids.com/EnergyandTheEnvironment/RenewableEnergy/022401) Is a sustainable, renewable source of heat and energy.|:x:|
 |Natural Gas|Desc|:x:|
 |Biofuels|Desc|:x:|
