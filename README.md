@@ -8,6 +8,8 @@
   * Adopts an overall systematic investigative approach (e.g. testing the hypotheses by experiment or analysis)
   * Has the purpose of achieving a scientific or a technological advancement
   * Diligently logged, and has records of the hypotheses tested and results achieved
+* #### Possibility:
+    * The company is goal orientated toward R&D per the requirements. A reduction would be helpful on bills.
 ### Small business tax credit:
 * Corporations that were Canadian-controlled private corporations (CCPCs) throughout the tax year may be able to claim the small business deduction (SBD). The SBD reduces Part I tax that the corporation would otherwise have to pay.
 * #### [Requirements](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-returnhtml#P2862_20825)
