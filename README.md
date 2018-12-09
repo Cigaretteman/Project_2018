@@ -12,4 +12,11 @@
 * Corporations that were Canadian-controlled private corporations (CCPCs) throughout the tax year may be able to claim the small business deduction (SBD). The SBD reduces Part I tax that the corporation would otherwise have to pay.
 * #### [Requirements](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-returnhtml#P2862_20825)
     * Revenue less than $500,000.
-
+### Tax credit for sound production in Ontario
+* Refundable tax credit of 20% of production and marketing costs for sound recordings produced in Ontario.
+* #### [Requirements](http://www.omdc.on.ca/film_and_tv/tax_credits/OPSTC.htm)
+    * Must be a Canadian or foregin-owned corporation which carries film or video production.
+    * Must retain the copyright to their materials.
+    * Permanent estabilshment in Ontario.
+* #### Possibility:
+    * Could reduce the spending on our advertisements.
