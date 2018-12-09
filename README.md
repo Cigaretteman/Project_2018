@@ -8,7 +8,7 @@
   
 ### Procedures, Processes, Menus, Layout
 Our initial process was to [narrow down the scope of our project to one or two different sources of energy](https://github.com/ConfederationC/Project_2018/issues/33). 
-We started by researching 11 different forms of energy from [RenewableResourceCollation.org](http://renewableresourcescoalition.org/), and then made decisions about which forms would be most appropriate for the scope of the project.
+We started by researching 11 different forms of energy from [RenewableResourceCollation.org](http://renewableresourcescoalition.org/), and then made decisions about which forms would be most appropriate for the scope of the project. Once we had [refined our scope down to 3 different energy systems](https://github.com/ConfederationC/Project_2018/issues/33): solar, hydroelectric, and wind we decided to cut hydroelectric, as that is standard in the Thunder Bay region. 
 
 
 ### Decisions and Justifications
@@ -40,12 +40,14 @@ The solar power is the one of the most popular alternative energy system among t
 The solar technologies starting in 1860s, and only 1% efficient cells. When global warming concerns became big issue in the mid 1990s, the solar power became so popular. Also, the solar panel efficiency gets increasing. EnergySage(n.d.) mention that 2017, prototype for solar cell capable of 44.5% efficiency now. In other words, the solar panel cost over time is decreased. In 2008, the cost of solar panel installation was $8.82 per watt, but as see the table, now $3.14 per watt.
 
 Table1
+
 ![Table01](images/table01.png?raw=true "Table 1")
 
 ### Applied in Canadian residential market
 According to Solarpanelpower(2018), Saskatchewan is the best province for applied solar powers.
 
 Table2
+
 ![Table02](images/table02.png?raw=true "Table 2")
 
 In Canada, most of province support the solar power installation for the individual household. The rebates, tax credits, and more. In nutshell, you do not need to pay anything for solar power installation.
