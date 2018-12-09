@@ -53,3 +53,37 @@ Italy
 -	Gnocchi di ricotta
 -	Spaghetti Bolognese
 -	Penne all'arrabbiata
+
+China
+1. Chow mein
+2. Sweet & sour pork
+3. Egg fry rice
+4. Dumplings
+5. Gongbao chicken
+6. Spicy & sweet ribs
+7. Char siu
+8. Red bean sou
+9. Spicy deep-fried chicken
+10. Hotpot
+11. Vinegar sauce fish
+12. Spring rolls
+13. Beef brisket
+14. Chicken rice
+15. Roast pigeon
+
+France
+1. Escargot
+2. Soupe a l'oignon
+3. Coq au vin
+4. Cassoulet
+5. Beef bourguinon
+6. Flamiche
+7. Confit de canard
+8. Nicoise salad
+9. Ratatouille
+10. Chicken basquaise
+11. Steak diane
+12. Crepes suzette
+13. Pear tarte tatin
+14. Lamb navarin
+15. Cherry gateau basque
