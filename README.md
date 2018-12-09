@@ -28,8 +28,15 @@ We started by researching 11 different forms of energy from [RenewableResourceCo
 |Nuclear Power|Desc|:x:|
 
 #### Reasoning
-The reason for choosing **solar energy** is
-The reason for choosing **wind power** is that turbines are a *clean and renewable* source of energy, are relatively cheap compared to other alternative forms of energy, and could *plausibly* be implemented in Thunder Bay. In 2007, Horizon Wind Inc had planned to spend $75 million bringing 30 wind turbines to Thunder Bay, but ultimately was not implemented and scrapped the project in 2014. [[1]](http://www.thunderbaybusiness.ca/article/wind-power-for-thunder-bay-286.asp) [[2]](http://www.windaction.org/posts/43689-horizon-wind-thunder-bay-denial)
+**Solar energy** was chosen because...
+
+**Wind power** was chosen because wind turbines are a *clean and renewable* source of energy, are relatively cheap compared to other alternative forms of energy, and could be implemented in Thunder Bay. In 2007, Horizon Wind Inc had planned to spend $75 million bringing 30 wind turbines to Thunder Bay, but scrapped the project in 2014. [[1]](http://www.thunderbaybusiness.ca/article/wind-power-for-thunder-bay-286.asp) [[2]](http://www.windaction.org/posts/43689-horizon-wind-thunder-bay-denial)
+
+#### Pricing
+According to Windustry, the cost of commercial wind turbines "range from about 1.3 million to $2.2 million per MW (1,000,000 watts) of nameplate capacity installed." Alternatively, for residential power "wind turbines under 100 kilowatts cost roughly $3,000 to $8,000 per kilowatt of capacity." [[1]](http://www.windustry.org/how_much_do_wind_turbines_cost)
+
+#### Area
+According to SaskWind, wind turbines must be spread out over several hundred meters so "the turblent wake of one does not interfere with another." [[1]](https://www.saskwind.ca/land-area/)
 
 ## Solar power
 ### Introduction
