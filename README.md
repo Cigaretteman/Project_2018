@@ -10,6 +10,15 @@
   * Diligently logged, and has records of the hypotheses tested and results achieved
 * #### Possibility:
     * The company is goal orientated toward R&D per the requirements. A reduction would be helpful on bills.
+### Refundable tax credit for R&D in Ontario:
+* Refundable tax credit of 8% for innovative scientific research and experimental development expenditures in Ontario.
+* Qualifying corporations can claim a refundable tax credit for qualified expenditures on scientific research and experimental development performed in Ontario.
+* #### [Requirements](https://www.fin.gov.on.ca/en/credit/oitc/index.html)
+    * Has a permanent establishment in Ontario
+    * Carries out scientific research and experimental development in Ontario during the year
+    * Is eligible to claim the federal investment tax credit under section 127 of the federal Income Tax Act (Canada)
+    * Is not exempt from corporation income tax
+    * Has filed a scientific research and experimental development expenditures claim on federal form T661 for the tax year.
 ### Small business tax credit:
 * Corporations that were Canadian-controlled private corporations (CCPCs) throughout the tax year may be able to claim the small business deduction (SBD). The SBD reduces Part I tax that the corporation would otherwise have to pay.
 * #### [Requirements](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-returnhtml#P2862_20825)
