@@ -24,7 +24,7 @@ We started by researching 11 different forms of energy from [RenewableResourceCo
 |Natural Gas| Igniting natural gas to create pressure as a mechanical power to turn electric generators|:x:|
 |Biofuels|Organic materials like wood and fossil fuels are are used to generate electricity|:x:|
 |Wave Energy| Renewable source of energy from ocean waves that generate electricity |:x:|
-|Hydroelectric Energy| Using running watet to turn electric generators |:x:|
+|Hydroelectric Energy| Using running water to turn electric generators |:x:|
 |Nuclear Power| Fissionable elements that produce radiate energy and can bw converted to usable electricity |:x:|
 
 #### Reasoning
