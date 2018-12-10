@@ -22,3 +22,10 @@
     * Permanent estabilshment in Ontario.
 * #### Possibility:
     * Could reduce the spending on our advertisements.
+### Ontario co-op student tax credit
+* If your business hires co-op students, you may be eligible for a refundable tax credit of 25% to a maximum of $3,000 per placement.
+* The Co-operative Education Tax Credit is a refundable tax credit. It is available to employers who hire students enrolled in a co-operative education program at an Ontario university or college.
+* #### [Requirements](https://www.fin.gov.on.ca/en/credit/cetc/index.html)
+    * Ontario businesses that hire students enrolled in a post-secondary co-operative education program are eligible for the tax credit.
+* Possibility:
+    * Hiring co-op students for insight into R&D to help and receive tax cuts.
