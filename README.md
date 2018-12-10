@@ -21,11 +21,11 @@ We started by researching 11 different forms of energy from [RenewableResourceCo
 |Tidal Energy|Tidal energy is yielded from water, similar concept to wind turbines.|:x:|
 |Biomass Energy|Organic material from plants and animals is burned, releasing power. |:x:|
 |Geothermal Power|Vent down into steam/hot water reservoirs underground, harness it to drive an electrical generator. [[1]](http://www.alliantenergykids.com/EnergyandTheEnvironment/RenewableEnergy/022401) Is a sustainable, renewable source of heat and energy.|:x:|
-|Natural Gas|Desc|:x:|
-|Biofuels|Desc|:x:|
-|Wave Energy|Desc|:x:|
-|Hydroelectric Energy|Desc|:x:|
-|Nuclear Power|Desc|:x:|
+|Natural Gas| Igniting natural gas to create pressure as a mechanical power to turn electric generators|:x:|
+|Biofuels|Organic materials like wood and fossil fuels are are used to generate electricity|:x:|
+|Wave Energy| Renewable source of energy from ocean waves that generate electricity |:x:|
+|Hydroelectric Energy| Using running watet to turn electric generators |:x:|
+|Nuclear Power| Fissionable elements that produce radiate energy and can bw converted to usable electricity |:x:|
 
 #### Reasoning
 **Solar energy** was chosen because...
